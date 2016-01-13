@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/lang/ParseContext.java=UTF-8
+encoding//src/lang/SimpleToken.java=UTF-8
+encoding//src/lang/SimpleTokenizer.java=UTF-8
+encoding//src/lang/Token.java=UTF-8
+encoding//src/lang/c/CParseRule.java=UTF-8
+encoding//src/lang/c/CTokenRule.java=UTF-8
+encoding//src/lang/c/CTokenizer.java=UTF-8
+encoding//src/lang/c/CType.java=UTF-8
+encoding//src/lang/c/MiniCompiler.java=UTF-8
+encoding//src/lang/c/TestCToken.java=UTF-8
+encoding//src/lang/c/parse/Expression.java=UTF-8
+encoding//src/lang/c/parse/Factor.java=UTF-8
+encoding//src/lang/c/parse/Number.java=UTF-8
+encoding//src/lang/c/parse/Program.java=UTF-8
+encoding//src/lang/c/parse/Term.java=UTF-8
